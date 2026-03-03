@@ -167,9 +167,9 @@ All experiments, model training, evaluation, and SHAP analysis are fully reprodu
 
 ## Author
 
-Abir Hasan
+Md Abir Hossain
 Machine Learning & Data Science Researcher
-Bangladesh
+Dhaka Bangladesh
 
 ---
 
