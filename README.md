@@ -74,7 +74,6 @@ Performance was evaluated using:
 * Precision
 * Recall
 * Macro F1-score
-* Confusion Matrix
 
 ### Comparative Performance
 
